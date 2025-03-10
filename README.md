@@ -16,6 +16,6 @@ This project delivers an AI-driven solution that transforms raw customer and tra
 ## Setup and Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/intelligent-customer-segmentation.git
+   git clone https://github.com/samruddhid5/customer-segmentation-analytics.git
    cd intelligent-customer-segmentation
 
